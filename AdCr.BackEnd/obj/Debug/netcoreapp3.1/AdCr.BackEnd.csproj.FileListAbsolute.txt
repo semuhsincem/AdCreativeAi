@@ -1,0 +1,17 @@
+C:\Users\muhsincem.kutukcu\source\repos\AdCr.BackEnd\AdCr.BackEnd\bin\Debug\netcoreapp3.1\AdCr.BackEnd.exe
+C:\Users\muhsincem.kutukcu\source\repos\AdCr.BackEnd\AdCr.BackEnd\bin\Debug\netcoreapp3.1\RequestFolder\Input.json
+C:\Users\muhsincem.kutukcu\source\repos\AdCr.BackEnd\AdCr.BackEnd\bin\Debug\netcoreapp3.1\AdCr.BackEnd.deps.json
+C:\Users\muhsincem.kutukcu\source\repos\AdCr.BackEnd\AdCr.BackEnd\bin\Debug\netcoreapp3.1\AdCr.BackEnd.runtimeconfig.json
+C:\Users\muhsincem.kutukcu\source\repos\AdCr.BackEnd\AdCr.BackEnd\bin\Debug\netcoreapp3.1\AdCr.BackEnd.runtimeconfig.dev.json
+C:\Users\muhsincem.kutukcu\source\repos\AdCr.BackEnd\AdCr.BackEnd\bin\Debug\netcoreapp3.1\AdCr.BackEnd.dll
+C:\Users\muhsincem.kutukcu\source\repos\AdCr.BackEnd\AdCr.BackEnd\bin\Debug\netcoreapp3.1\AdCr.BackEnd.pdb
+C:\Users\muhsincem.kutukcu\source\repos\AdCr.BackEnd\AdCr.BackEnd\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\muhsincem.kutukcu\source\repos\AdCr.BackEnd\AdCr.BackEnd\obj\Debug\netcoreapp3.1\AdCr.BackEnd.csproj.AssemblyReference.cache
+C:\Users\muhsincem.kutukcu\source\repos\AdCr.BackEnd\AdCr.BackEnd\obj\Debug\netcoreapp3.1\AdCr.BackEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muhsincem.kutukcu\source\repos\AdCr.BackEnd\AdCr.BackEnd\obj\Debug\netcoreapp3.1\AdCr.BackEnd.AssemblyInfoInputs.cache
+C:\Users\muhsincem.kutukcu\source\repos\AdCr.BackEnd\AdCr.BackEnd\obj\Debug\netcoreapp3.1\AdCr.BackEnd.AssemblyInfo.cs
+C:\Users\muhsincem.kutukcu\source\repos\AdCr.BackEnd\AdCr.BackEnd\obj\Debug\netcoreapp3.1\AdCr.BackEnd.csproj.CoreCompileInputs.cache
+C:\Users\muhsincem.kutukcu\source\repos\AdCr.BackEnd\AdCr.BackEnd\obj\Debug\netcoreapp3.1\AdCr.BackEnd.csproj.CopyComplete
+C:\Users\muhsincem.kutukcu\source\repos\AdCr.BackEnd\AdCr.BackEnd\obj\Debug\netcoreapp3.1\AdCr.BackEnd.dll
+C:\Users\muhsincem.kutukcu\source\repos\AdCr.BackEnd\AdCr.BackEnd\obj\Debug\netcoreapp3.1\AdCr.BackEnd.pdb
+C:\Users\muhsincem.kutukcu\source\repos\AdCr.BackEnd\AdCr.BackEnd\obj\Debug\netcoreapp3.1\AdCr.BackEnd.genruntimeconfig.cache
